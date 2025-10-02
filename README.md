@@ -14,8 +14,3 @@ I’m a Computer and Communication Engineering undergraduate with a strong passi
 
 ### 🛠️ Tech Stack
 `Python` `Java` `C` `Git` `VS Code` `Linux` `Ubuntu` `PyTorch` `TensorFlow`
-
----
-
-### 🔗 Socials
-[GitHub](https://github.com/reemtest)
