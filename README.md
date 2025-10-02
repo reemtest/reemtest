@@ -18,9 +18,4 @@ I’m a Computer and Communication Engineering undergraduate with a strong passi
 ---
 
 ### 🔗 Socials
-[GitHub](https://github.com/yourusername)
-
----
-
-### 📊 GitHub Stats
-<!-- You can add GitHub stats here using: https://github.com/anuraghazra/github-readme-stats -->
+[GitHub](https://github.com/reemtest)
